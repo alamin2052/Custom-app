@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agent Commander</string>
+    <string name="a11y_desc">Lets Agent Commander see the screen and tap or type ONLY while you have started an agent. You can stop every agent at any time from the app, the notification, or by pressing Volume Up and Volume Down together.</string>
+</resources>
